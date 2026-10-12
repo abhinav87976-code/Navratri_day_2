@@ -10,7 +10,7 @@ Follow these simple steps to run this project on your system:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Gracyclub/Day-2-mata-python-sketch.git](https://github.com/Gracyclub/Day-2-mata-python-sketch.git)
+git clone [https://github.com/abhinav87976-code/Day-2-mata-python-sketch.git](https://github.com/abhinav87976-code/Day-2-mata-python-sketch.git)
 ```
 
 cd Day-2-mata-python-sketch
